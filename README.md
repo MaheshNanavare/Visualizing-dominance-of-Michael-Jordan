@@ -1,5 +1,4 @@
-# Visualizing-dominance-of-Michael-Jordan
-**A data-driven analysis of the six-time NBA  champion's career statistics and impact on the game of basketball**
+![Cover Page](https://github.com/MaheshNanavare/Visualizing-dominance-of-Michael-Jordan/blob/main/Power%20BI%20files/Images/Screenshots/Cover%20Page.jpg)
 
 ## Background:
 Michael Jordan is widely considered one of the greatest basketball players of all time. He played 
